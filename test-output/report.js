@@ -64,42 +64,42 @@ formatter.match({
   "location": "SearchSteps.i_am_on_the_store_home_page()"
 });
 formatter.result({
-  "duration": 14205616500,
+  "duration": 8979568600,
   "status": "passed"
 });
 formatter.match({
   "location": "SearchSteps.enter_the_requested_product()"
 });
 formatter.result({
-  "duration": 151133700,
+  "duration": 213160500,
   "status": "passed"
 });
 formatter.match({
   "location": "SearchSteps.press_enter()"
 });
 formatter.result({
-  "duration": 6280238600,
+  "duration": 4890303700,
   "status": "passed"
 });
 formatter.match({
   "location": "SearchSteps.i_select_the_specifications(DataTable)"
 });
 formatter.result({
-  "duration": 9691087199,
+  "duration": 11722713200,
   "status": "passed"
 });
 formatter.match({
   "location": "SearchSteps.I_see_the_list_of_the_requested_product()"
 });
 formatter.result({
-  "duration": 108588200,
+  "duration": 106022000,
   "status": "passed"
 });
 formatter.match({
   "location": "SearchSteps.i_close_browser()"
 });
 formatter.result({
-  "duration": 4080801800,
+  "duration": 98338400,
   "status": "passed"
 });
 formatter.scenario({
@@ -160,42 +160,42 @@ formatter.match({
   "location": "SearchSteps.i_am_on_the_store_home_page()"
 });
 formatter.result({
-  "duration": 11804520400,
+  "duration": 7666663000,
   "status": "passed"
 });
 formatter.match({
   "location": "SearchSteps.enter_the_requested_product()"
 });
 formatter.result({
-  "duration": 115749900,
+  "duration": 155067100,
   "status": "passed"
 });
 formatter.match({
   "location": "SearchSteps.click_the_button_search()"
 });
 formatter.result({
-  "duration": 3883681701,
+  "duration": 4514848800,
   "status": "passed"
 });
 formatter.match({
   "location": "SearchSteps.i_select_the_specifications(DataTable)"
 });
 formatter.result({
-  "duration": 5128576900,
+  "duration": 4064321200,
   "status": "passed"
 });
 formatter.match({
   "location": "SearchSteps.I_see_the_list_of_the_requested_product()"
 });
 formatter.result({
-  "duration": 242616700,
+  "duration": 224987900,
   "status": "passed"
 });
 formatter.match({
   "location": "SearchSteps.i_close_browser()"
 });
 formatter.result({
-  "duration": 4091324201,
+  "duration": 202028200,
   "status": "passed"
 });
 });
