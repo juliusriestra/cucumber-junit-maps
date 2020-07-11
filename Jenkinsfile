@@ -1,24 +1,14 @@
 node {
-  stages {
-        stage('Checkout') {
-            steps {
-             git "https://github.com/juliusriestra/cucumber-junit-maps"
-           }
-        }
-        stage('Build') {
-            steps {
-                echo 'Building..'
-            }
-        }
-        stage('Test') {
-            steps {
-                echo 'Testing..'
-            }
-        }
-        stage('Deploy') {
-            steps {
-                echo 'Deploying....'
-            }
-        }
-    }
+     stage('Checkout') {
+           git "https://github.com/juliusriestra/cucumber-junit-maps"
+     }
+     stage('Build') {
+           echo 'Building..'
+     }
+     stage('Test') {
+            echo 'Testing..'
+     }
+     stage('Deploy') {
+            echo 'Deploying....'
+     }
 }
